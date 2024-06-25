@@ -1,0 +1,5 @@
+Le bouton feature : c'est pour mettre en avant le post
+Le bouton PublishedPosts en haut e la table permet e choisir si oui ou non on veut afficher uniquement les posts mis en avant ou alors tous les posts
+
+
+Les middlewares sont des classes qui interviennent durant le cycle de vie de nos requetes.
